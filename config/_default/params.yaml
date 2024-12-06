@@ -1,0 +1,71 @@
+############################
+## Author
+############################
+
+author:
+  name: "S3ntinl"
+  image: author.jpeg
+  greeting: "Hacker | Penetration Tester | Bug Bounty Hounter"
+  icon: false
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/S3ntinl
+  # facebook: 
+  # - x-twitter:
+  # - mastodon:
+  - linkedin: https://www.linkedin.com/in/marcosgarciaarcos/
+  # - instagram:
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  - email: s3ntinlsec@gmail.com
+  - website: https://app.hackthebox.com/profile/1650462
+  # - link: 
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud:
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube:
+  # - keybase: 
+  # - flickr: 
+  # - tumblr:
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket:
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon: 
+  # - google: 
+  # - paypal: 
+  # - windows: 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+images:
+  - thumbnail.jpeg
