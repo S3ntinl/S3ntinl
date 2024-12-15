@@ -6,9 +6,12 @@ main:
 - name: Home
   url: /
   weight: 10
-- name: Blog
+- name: Blog 🇺🇸
   url: /blog/
   weight: 20
+- name: Blog 🇪🇸
+  url: /bloges/
+  weight: 30
 - name: About
   url: /about/
-  weight: 30
+  weight: 40
